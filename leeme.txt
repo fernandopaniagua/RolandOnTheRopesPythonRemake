@@ -1,0 +1,10 @@
+
+Desarrollado con Python y Pygame por Fernando Paniagua.
+email: info@paniaguaip.info
+Alcorcon, Madrid, Mayo de 2018
+
+Este es mi humilde homenaje a los locos/genios que programaron los juegos
+que me alegraron la infancia y me inspiraron durante el resto
+de mis días.
+
+Fernando
